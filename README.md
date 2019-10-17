@@ -1,2 +1,2 @@
 # Test
-It is just a tes
+It is just a test
